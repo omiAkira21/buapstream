@@ -1,0 +1,22 @@
+{
+  "name": "webrtc2",
+  "version": "1.0.0",
+  "description": "webRTC p2p",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "peerjs": "^0.3.14",
+    "uid": "0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webRTC",
+    "peerjs",
+    "jquery"
+  ],
+  "author": "@omar",
+  "license": "ISC"
+}
